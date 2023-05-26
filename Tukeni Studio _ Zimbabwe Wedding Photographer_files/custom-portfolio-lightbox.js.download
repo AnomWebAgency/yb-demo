@@ -1,0 +1,1 @@
+jQuery(window).on("load",(function(){jQuery(".elpt-portfolio-content").length&&(jQuery("a.elpt-portfolio-lightbox").simpleLightbox({captions:!0,disableScroll:!1,rel:!0}),jQuery("a.elpt-portfolio-lightbox").on("click",(function(){setTimeout((()=>{jQuery("#elementor-lightbox-slideshow-single-img").css("z-index","888")}),"10")})))}));
