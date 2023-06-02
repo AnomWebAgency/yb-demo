@@ -699,7 +699,7 @@ input:required {
     .single-welcome-slide .welcome-text h2 {
       font-weight: 700;
       font-size: 82px;
-      display: block;
+      display: inline-block;
       margin-bottom: 0;
       background: -webkit-linear-gradient(#5377f766, #61bcf9);
       -webkit-background-clip: text;
